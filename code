@@ -1,0 +1,1473 @@
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<script >
+var cms_data = {};
+var cms_adsense_background_color = "FFFFFF";
+cms_data.dlv_cms_adsense_background_color = cms_adsense_background_color;
+var cms_url = "https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html";
+cms_data.dlv_cms_url = cms_url;
+var cms_url_domain = "https://www.topspeed.com";
+cms_data.dlv_cms_url_domain = cms_url_domain;
+var cms_obj_date_pub_first = '2017-05-30T20:04:00-04:00';
+cms_data.dlv_cms_obj_date_pub_first = cms_obj_date_pub_first;
+var cms_obj_date_updated = '2019-11-12T20:04:00-05:00';
+cms_data.dlv_cms_obj_date_updated = cms_obj_date_updated;
+var cms_obj_date_pub_last = '2019-11-12T20:04:00-05:00';
+cms_data.dlv_cms_obj_date_pub_last = cms_obj_date_pub_last;
+var cms_wordcount = "573";
+cms_data.dlv_cms_wordcount = cms_wordcount;
+var cms_obj_author_ids = ['11'];
+cms_data.dlv_cms_author_ids = cms_obj_author_ids;
+var cms_obj_author_titles = ['benoit aubert'];
+cms_data.dlv_cms_author_titles = cms_obj_author_titles;
+var cms_lang = "en";
+cms_data.dlv_cms_lang = cms_lang;
+var cms_debut_page = "0";
+cms_data.dlv_cms_debut_page = cms_debut_page;
+var cms_obj_root_id = "4";
+cms_data.dlv_cms_obj_root_id = cms_obj_root_id;
+var cms_section = "";
+cms_data.dlv_cms_section = cms_section;
+var cms_video_plyr = "no";
+cms_data.dlv_cms_video_plyr = cms_video_plyr;
+var cms_obj_id = "181316";
+cms_data.dlv_cms_obj_id = cms_obj_id;
+var cms_obj_type = "article";
+cms_data.dlv_cms_obj_type = cms_obj_type;
+var cms_obj_title = "drift_hunters";
+cms_data.dlv_cms_obj_title = cms_obj_title;
+var cms_year = "";
+cms_data.dlv_cms_year = cms_year;
+var cms_root_id = "4991";
+cms_data.dlv_cms_root_id = cms_root_id;
+var cms_vehicle = "cars";
+cms_data.dlv_cms_vehicle = cms_vehicle;
+var cms_make = "";
+cms_data.dlv_cms_make = cms_make;
+var cms_model = "";
+cms_data.dlv_cms_model = cms_model;
+var cms_body_style = "";
+cms_data.dlv_cms_body_style = cms_body_style;
+var cms_obj_tag_ids = new Array('4991','4882','3560','6001','6056','6061','4389','6431');
+cms_data.dlv_cms_obj_tag_ids = cms_obj_tag_ids;
+var cms_obj_tag_titles = new Array('cars','games','car games','desktop games','drifting games','webgl games','featured games','01');
+cms_data.dlv_cms_obj_tag_titles = cms_obj_tag_titles;
+var cms_obj_tag_title_arg = "cars-games-car-games-desktop-games-drifting-games-webgl-games-featured-games-01";
+cms_data.dlv_cms_obj_tag_title_arg = cms_obj_tag_title_arg;
+var cms_obj_path_ids = ['141','142'];
+cms_data.dlv_cms_obj_path_ids = cms_obj_path_ids;
+var cms_obj_path_titles = ['car games','car games'];
+cms_data.dlv_cms_obj_path_titles = cms_obj_path_titles;
+var cms_default = "NONE";
+cms_data.dlv_cms_default = cms_default;
+var cms_page = 'article_game' ;
+cms_data.dlv_cms_page = cms_page;
+var cms_rating_overall = '';
+cms_data.dlv_cms_rating_overall = cms_rating_overall;
+var iOS = /^(iPhone|iPad|iPod)/.test(navigator.platform);
+var safari = false;
+if(navigator.userAgent.indexOf("Safari") !== -1 && navigator.userAgent.indexOf("Chrome") === -1/* && navigator.userAgent.indexOf("Mozilla") === -1*/) safari = true;
+var webp_compatible = true;
+if(safari || iOS) webp_compatible = false;
+var dpr = window.devicePixelRatio || 1;
+var adjusted_size = (document.documentElement.clientWidth*0.75) * dpr;
+var is_mobile = false;
+if (/Mobi|Android/i.test(navigator.userAgent)) {
+is_mobile = true;
+}
+</script>
+<title>Drift Hunters | Top Speed</title>
+<meta name="description" content="Drift hunters - one of our best games from the category of car games. choose a car and go!" >
+<meta name="keywords" property="keywords" content="cars,games,car games,desktop games,drifting games,webgl games,featured games,01,drift hunters,drift,hunters,top speed" >
+<meta name="msapplication-TileColor"
+content="#000000" />
+<meta name="theme-color"
+content="#000000" />
+<meta name="msapplication-square70x70logo"
+content="https:https://pictures.topspeed.com/ms-icon-70x70.png"
+/>
+<meta name="msapplication-TileImage"
+content="https:https://pictures.topspeed.com/ms-icon-144x144.png">
+<meta name="msapplication-square150x150logo"
+content="https:https://pictures.topspeed.com/ms-icon-150x150.png" />
+<meta name="msapplication-wide310x150logo"
+content="https:https://pictures.topspeed.com/ms-icon-310x150.png" />
+<meta name=msapplication-square310x310logo
+content="https:https://pictures.topspeed.com/ms-icon-310x310.png" />
+<meta name="msapplication-config"
+content="none"/>
+<meta property="article:section"
+content="Article" />
+<meta property="article:published_time"
+content="2017-05-30T20:04:00-04:00" />
+<meta property="article:modified_time"
+content="2022-05-04T08:20:43-04:00" />
+<meta property="article:publisher"
+content="https://www.facebook.com/topspeed"/>
+<meta property="fb:pages"
+content="317709510863" />
+<meta property="fb:app_id" content="238286496201728" />
+<meta property="ia:markup_url" content="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html">
+<meta property="og:description"
+name="og:description"
+content="drift hunters - one of our best games from the category of car games. choose a car and go!" />
+<meta property="og:image"
+name="og:image"
+content="https://pictures.topspeed.com/IMG/jpg/201806/drift-hunters.jpg" />
+<meta property="og:image:secure_url"
+name="og:image:secure_url" content="https://pictures.topspeed.com/IMG/jpg/201806/drift-hunters.jpg" />
+<meta property="og:image:type"
+name="og:image:type"
+content="image/jpeg" />
+<meta property="og:image:width"
+name="og:image:width"
+content="759" />
+<meta property="og:image:height"
+name="og:image:height"
+content="513" />
+<meta property="og:locale"
+name="og:locale"
+content="en_US" />
+<meta property="og:site_name"
+name="og:site_name"
+content="Top Speed" />
+<meta property="og:title"
+name="og:title"
+content="Drift Hunters @ Top Speed
+" />
+<meta property="og:type"
+name="og:type"
+content="article" />
+<meta property="og:updated_time"
+name="og:updated_time"
+content="2022-05-04T08:20:43-04:00" />
+<meta property="og:url"
+name="og:url"
+content="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html" />
+<meta name="p:domain_verify" content="24cd99d05a77db0d2ab01be96699c2e4"/>
+<meta property="twitter:site"
+name="twitter:site"
+content="@topspeed" />
+<meta property="twitter:domain"
+name="twitter:domain"
+content="https://www.topspeed.com" />
+<meta property="twitter:card"
+name="twitter:card"
+content="summary_large_image" />
+<meta property="twitter:creator"
+name="twitter:creator"
+content="@topspeed" />
+<meta property="twitter:description"	name="twitter:description"	content="Drift Hunters - one of our best games from the category of car games. Choose a car and go!" />
+<meta property="twitter:image"
+name="twitter:image"
+content="https://pictures.topspeed.com/IMG/jpg/201806/drift-hunters.jpg" />
+<meta property="twitter:site"
+name="twitter:site"
+content="@topspeed" />
+<meta property="twitter:title"
+name="twitter:title"
+content="Drift Hunters - Top Speed
+" />
+<meta http-equiv="content-type"
+content="text/html; charset=utf-8">
+<meta name="geo.region"
+content="usa" >
+<meta name="rating"
+content="general" >
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<meta property="DC.date.issued"
+content="2017-05-30T20:04:00-04:00" />
+<meta property="robots" content="max-snippet:500, max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="Car News" href="https://www.topspeed.com/cars/ke4991.xml" >
+<link rel="alternate" type="application/rss+xml" title="Motorcycle News" href="https://www.topspeed.com/motorcycles/ke4992.xml" >
+<link rel="canonical" href="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html">
+<meta name="speakable-description" content="">
+<link rel="icon" type="image/png" sizes="192x192"
+href="https:https://pictures.topspeed.com/android-icon-192x192.png">
+<link rel="apple-touch-icon"
+href="https:https://pictures.topspeed.com/apple-icon.png">
+<link rel="apple-touch-icon" sizes="57x57"
+href="https:https://pictures.topspeed.com/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60"
+href="https:https://pictures.topspeed.com/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72"
+href="https:https://pictures.topspeed.com/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76"
+href="https:https://pictures.topspeed.com/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114"
+href="https:https://pictures.topspeed.com/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120"
+href="https:https://pictures.topspeed.com/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144"
+href="https:https://pictures.topspeed.com/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152"
+href="https:https://pictures.topspeed.com/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180"
+href="https:https://pictures.topspeed.com/apple-icon-180x180.png">
+<link rel="shortcut icon" href="https:https://pictures.topspeed.com/favicon.ico" >
+<link rel="icon" type="image/png" sizes="32x32" href="https:https://pictures.topspeed.com/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https:https://pictures.topspeed.com/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https:https://pictures.topspeed.com/favicon-16x16.png">
+<link rel="preload" href="https://pictures.topspeed.com/fonts/icons.woff2?52814313" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="dns-prefetch preconnect" href="https://pictures.topspeed.com" crossorigin>
+<link rel="dns-prefetch preconnect" href="//fonts.gstatic.com/" crossorigin />
+<link rel="dns-prefetch preconnect" href="//googleads.g.doubleclick.net/" crossorigin />
+<link rel="dns-prefetch preconnect" href="//www.googleadservices.com/" crossorigin />
+<link rel="dns-prefetch preconnect" href="//www.googletagmanager.com/" crossorigin />
+<link href="https://plus.google.com/+topspeed" rel="publisher" />
+<link rel="manifest" href="https://www.topspeed.com/manifest.json" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#282526">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/640x920.png" media="(max-width: 320px)" rel="apple-touch-startup-image">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/750x1334.png" media="(max-width: 375px)" rel="apple-touch-startup-image">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/1242x2208.png" media="(max-width: 414px)" rel="apple-touch-startup-image">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/768x1004.png" media="(max-width: 768px) and (orientation: portrait)" rel="apple-touch-startup-image">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/1024x768.png" media="(max-width: 1024px) and (orientation: landscape)" rel="apple-touch-startup-image">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/1536x2008.png" media="(max-width: 1536px) and (orientation: portrait)" rel="apple-touch-startup-image">
+<link href="https://pictures.topspeed.com/images/icons-pwa/splash/2048x1536.png" media="(max-width: 2048px)
+and (orientation: landscape)" rel="apple-touch-startup-image">
+<script type="application/ld+json">[
+{
+"@context": "https://schema.org",
+"@type": "WebApplication",
+"aggregateRating": {
+"@type": "AggregateRating",
+"bestRating": 5,
+"ratingCount": 138,
+"ratingValue": 4.45,
+"worstRating": 1
+},
+"applicationCategory": "Game",
+"applicationSubCategory": "car games",
+"image": "https://pictures.topspeed.com/IMG/crop_webp/201806/drift-hunters_400x266.webp",
+"screenshot": {
+"@type": "ImageObject",
+"thumbnailUrl": "https://pictures.topspeed.com/IMG/crop_webp/201806/drift-hunters_180x130.webp"
+},
+"name": "Drift Hunters",
+"offers": {
+"@type": "Offer",
+"availability": "http://schema.org/InStock",
+"price": "0",
+"priceCurrency": "USD"
+},
+"operatingSystem": "Windows, Linux, MacOS, any, Android, iOS"
+},
+{
+"@context": "https://schema.org"
+,"@type": "WebSite"
+,"name": "Top Speed"
+,"about": "Cars, Trucks, Motorcycles, Boats and planes"
+,"url": "https:\/\/www.topspeed.com"
+,"mainEntity": "Cars, Trucks, SUV, Motorcycles, Boats, Planes"
+,"potentialAction":{
+"@type":"SearchAction"
+,"target":"https:\/\/www.topspeed.com\/search\/{search_term_string}"
+,"query-input":"required name=search_term_string"
+}
+}
+,
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"url": "https:\/\/www.topspeed.com",
+"legalName": "Top Speed",
+"contactPoint": [
+{
+"@type": "ContactPoint",
+"telephone": "+1-786-264-2123",
+"contactType": "Customer Support",
+"areaServed": "US"
+}
+],
+"logo": "https://pictures.topspeed.com/images/2015/logo_amp.png"
+,"sameAs":
+[
+"https://www.facebook.com/topspeed",
+"https://twitter.com/topspeed",
+"https://plus.google.com/+topspeed",
+"https://www.pinterest.com/topspeed/",
+"https://www.youtube.com/topspeed",
+"https://www.reddit.com/domain/topspeed.com",
+"https://www.linkedin.com/company/1270715",
+"https://www.instagram.com/topspeed/"
+]
+}
+,
+{
+"@context": "http://schema.org",
+"@type": "mediaGallery",
+"name": "Drift Hunters"
+,"image":[
+{
+"@type": "ImageObject",
+"thumbnailUrl": "https://pictures.topspeed.com/IMG/crop/201806/drift-hunters_180x130w.jpg",
+"url":"https://pictures.topspeed.com/IMG/crop/201806/drift-hunters_1600x0w.jpg",
+"caption": "",
+"width":"1600",
+"height":"1081"
+}
+,
+{
+"@type": "ImageObject",
+"thumbnailUrl": "https://pictures.topspeed.com/IMG/crop/201805/drift-hunters_180x130w.jpg",
+"url":"https://pictures.topspeed.com/IMG/crop/201805/drift-hunters_1600x0w.jpg",
+"caption": "",
+"width":"1600",
+"height":"987"
+}
+]
+,"video":[
+{
+"@type": "VideoObject"
+,"embedUrl": "https://www.youtube.com/embed/xxwk6o-MqZI"
+,"thumbnailUrl": "https://img.youtube.com/vi/xxwk6o-MqZI/hqdefault.jpg"
+,"name": "Drift Hunters"
+,"description": "Drift Hunters - one of our best games from the category of car games. Choose a car and go!"
+,"uploadDate": "2019-06-04 22:57:45"
+}
+]
+},
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"item": {
+"@id": "https://www.topspeed.com",
+"name": "Home"
+},
+"position": 1
+}
+,{
+"@type": "ListItem",
+"item": {
+"@id": "https://www.topspeed.com/car-games/",
+"name": "Car games"
+},
+"position": 2
+}
+]}]</script>
+<script>
+var screen_size = window.innerWidth || document.body.clientWidth;
+window.lazySizesConfig = window.lazySizesConfig || {};
+// use .lazy instead of .lazyload
+window.lazySizesConfig.lazyClass = 'lazy';
+var slider_selector = '';
+var all_ads = [];
+</script>
+<link property='stylesheet' rel='stylesheet' href='https://www.topspeed.com/local/cache-css/08706cb86c0034e4552b664dbb63ace9.css?1651823204' type='text/css' />
+<script defer src='https://www.topspeed.com/local/cache-js/a53101fd24bd0130a88a72a713a158ba.js?1651823205'></script>
+<script>var CONFIG_WMODE = 'opaque';</script>
+<script>
+var lg_top_box = '', lg_right_box = '';
+</script>
+<script defer src="https://www.topspeed.com/local/cache-js/custom_games-minify-9cc6.js?1651682048"></script>
+<script defer src="https://www.topspeed.com/local/cache-js/notation_all-minify-8ca0.js?1651682048"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push(cms_data);
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PGS88SG');</script>
+<style>
+.promo-photos{
+height: 100vh;
+min-height: 300px;
+}
+/* ads */
+.top-horizontal-ad-content{
+min-height: 100px;
+margin-top: 10px;
+}
+.ad-box{
+min-height: 280px;
+}
+.b-right-column-section .ad-box>div{
+min-height:600px;
+}
+.ad-banner{
+min-height: 600px;
+}
+.daily-vid-ad{
+width:90%;
+aspect-ratio: 11 / 9;
+margin: 0 auto;
+min-height: 260px;
+}
+.sw-ad{min-height:2753px;}
+@media screen and (min-width: 638px){.sw-ad{min-height:1372px;}}
+.daily-vid-ad:empty,.dynamic-ads:empty,.txt-ad:empty,.sw-ad:empty,.ad-box:empty,.ad-banner:empty,.top-horizontal-ad-content:empty{position:relative;/*background-color: #eee;*/}
+.dynamic-ads{min-height:334px;margin-bottom: 10px;}
+.txt-ad{height:334px;margin-bottom:20px;}
+.dynamic-ad,.mob-ad,.txt-ad,.sw-ad,.ad-box,.ad-banner>div,.top-horizontal-ad{position:relative;/*background-color: #eee;*/}
+@media screen and (max-width: 766px){
+.mob-ad{height:334px;margin-bottom:20px;}
+}
+</style>
+</head>
+<body>
+<script>
+if(is_mobile) document.body.classList.add("mobile-page");
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PGS88SG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id='div-gpt-ad-1329937054367-1' class="zerozero"></div>
+<noscript><div class="noscript">Javascript must be enabled for the correct page display</div></noscript>
+<div class="b-global-wrapper">
+<header id="b-header" class="b-header _no-abs">
+<div class="b-header-top">
+<div class="g-inner-width">
+<div class="g-inner-indent">
+<div class="b-header-top-content g-fw">
+<div class="b-logo-wrapper">
+<div class="b-logo">
+<a href="https://www.topspeed.com" class="b-logo__link" title="Home">
+<img src="https://pictures.topspeed.com/images/2015/logo.svg"
+width="190" height="45" alt="" />
+</a>
+</div>
+</div>
+<button aria-label="Main menu" class="show-main-menu-btn icon-menu js-show-main-menu"></button>
+<button aria-label="Search" class="show-search-form-btn icon-search js-show-search-form"></button>
+<div class="header-search-panel">
+<form action="https://www.topspeed.com/search_gg.html" id="top_search" onsubmit="return update_search_link('top_search');">
+<input type="text" class="header-search-field" placeholder="Year, Make, Model, Body Type, Topic ?" name="q" title="search field" />
+<button type="reset" class="header-search-reset-btn icon-cancel" onclick="close_if_search_empty();"></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<script type="application/ld+json">[
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [{ "@type": "Question",
+"name": "What is the best car for drift hunters?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "When it comes to drifting, you will have to find the best car to suit your requirements. While some gamers are certain that the Nisan GTR is the best car in Drift Hunters, some had huge success with the Nisan Silvia Spec R."
+}},{ "@type": "Question",
+"name": "What is the name of the most expensive car in the Drift Hunters game?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "The priciest car to buy in the game is the Porsche 911 GT (993), but it is not the fastest."
+}},{ "@type": "Question",
+"name": "What is the fastest car on Drift Hunters?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "The fastest car in Drift Hunters is the Nissan GT-R (R35)."
+}},{ "@type": "Question",
+"name": "Who invented Drift Hunter?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "The game was originaly developped by Ilya Kaminetsky. You can downlaod it directly from the developper on his <a href='https:\/\/studionum43.itch.io\/drift-hunters\/purchase' class='_out' rel='external nofollow noopener'>website<\/a> and you can also support the project financialy from there."
+}}
+]}
+]</script>
+<div class="top-horizontal-ad js-top-horizontal-ad" data-show-fix-time="2500">
+<div class="top-horizontal-ad-content-area">
+<div class="top-horizontal-ad-content"></div>
+</div>
+</div>
+<div class="b-base-content article-game">
+<div class="b-page-content-wrapper g-inner-width">
+<div class="b-page-title-wrapper">
+<div class="b-page-title-wrapper-inner g-inner-indent g-fw">
+<div class="b-page-title game-title">
+<ul>
+<li>
+<a href="https://www.topspeed.com">Home</a>
+</li>
+<li>
+<div class="breadcrumb-separation"></div>
+<a href="https://www.topspeed.com/car-games/">
+Car games
+</a>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="b-page-content g-fw js-parent-for-sticky-right-column">
+<div class="left-column-unit">
+<div class="left-column-unit__wrap">
+<div class="left-column-unit__wrap-inner">
+<div class="b-social-links">
+<a class="b-social-links__share-link sb-fb-share" data-social="fb" href="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html" aria-label="Facebook"></a>
+<a class="b-social-links__share-link sb-tw-share" data-social="tt" href="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html" aria-label="Twitter"></a>
+<a class="b-social-links__share-link sb-pin" data-social="pin" href="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html" aria-label="Pinterest"></a>
+<a class="b-social-links__share-link sb-red" data-title="Drift Hunters" data-social="red" href="https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html" aria-label="Reddit"></a>
+</div><h1>Drift Hunters</h1>
+<div class="b-game-fullscreen-btn j-show-fullscreen-game"></div>
+<div class="b-game-wrapper">
+<div style="width:100%;aspect-ratio:1.52;" class="b-game-area" id="b-game-area" data-id="181316" data-mobile="no" data-flash="no" data-json="https://www.topspeed.com/IMG/json/202201/drift-hunters.json" data-size="92590612" data-ratio="1.52" data-overlay="">
+<script src="https://www.topspeed.com/IMG/js/202201/drift-hunters.js?1643201365"></script>
+</div>
+<div class="game-overlay"><img src="https://pictures.topspeed.com/images/2015/logo_amp.png" alt="" /><div class="game-overlay-loading">Loading game: 0%</div><div class="game-overlay-progress"><div class="game-overlay-progress-filling"></div></div></div>
+</div>
+<div id='tsrating' data-id='181316'></div>
+<div class="b-game-detail-other-info">
+<h2>Gameplay</h2>
+<figure class='spip_documents spip_documents_center ressource oembed oembed_video oembed_youtube'>
+<div class="oembed oe-video async clearfix" style="max-width:1000px;">
+<div class="rwd-video-container oe-play-button"
+style="width:100%;height:0;padding-bottom:56.3%;background-image:url('https://i.ytimg.com/vi/xxwk6o-MqZI/hqdefault.jpg');background-repeat:no-repeat;background-position:center;background-size:cover;"
+onclick="if (jQuery(this).is('.oe-play-button')){jQuery(this).removeClass('oe-play-button').addClass('loading').html(decodeURIComponent('%3Ciframe%20width%3D%221000%22%20height%3D%22563%22%20src%3D%22https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2Fxxwk6o-MqZI%3Ffeature%3Doembed%26autoplay%3D1%22%20frameborder%3D%220%22%20allow%3D%22accelerometer%3B%20autoplay%3B%20clipboard-write%3B%20encrypted-media%3B%20gyroscope%3B%20picture-in-picture%22%20allowfullscreen%3E%3C%2Fiframe%3E'));}"
+>
+<button onclick="jQuery(this).parent().trigger('click');"><span class="oe-play-button_label">Play</span></button>
+</div>
+<style></style>
+</div>
+<figcaption class="spip_doc_legende">
+<div class="spip_doc_titre" style="max-width:1000px;"><a href="https://www.youtube.com/watch?v=xxwk6o-MqZI" class="oe-title">Drift Hunters Highlights & Walkthrough - Free online racing game</a>
+<span class="oe-author"><br/><span class="oe-author_par">by </span><a class="oe-author_name" href="https://www.youtube.com/c/topspeed">TopSpeed</a></span></div>
+</figcaption>
+</figure>
+</div>
+<div class="game-article-overview">
+<h2>ABOUT DRIFT HUNTER</h2>
+<p>Drift Hunters is a free-to-play, browser-based drifting game that puts you behind the wheel of cars like the Toyota AE86, Nissan S13, Toyota Supra, Ford Mustang, and even the RWB 911. It’s nowhere near as in-depth as your modern-day PC and console games, but you can tune and customize your car to an impressive level. Since it’s based on the UNITY engine, it does offer 3D graphics and the physics are somewhat realistic.</p>
+<h2>HOW TO PLAY</h2>
+<p>Gameplay is relatively simple. Use your keyboard’s <strong>ARROW KEYS</strong> to control the vehicle, the <strong>SPACEBAR</strong> to engage the handbrake, <strong>C</strong> to change the camera view. <strong>Left Shift</strong> and <strong>CTRL</strong> to upshift and downshift, respectively. While the handbrake is usually useful in games like this, you might find that you don’t need it as steering alone is usually enough to introduce a pretty wicked drift.</p>
+<h3>Drifting</h3>
+<p>In-game, the longer you drift, the more you earn point multiplier increases. You can utilize the points to purchase exotic cars like top performance <a href="https://www.topspeed.com/cars/porsche-911/ke282.html" class='_in'><strong>Porsche 911</strong> GT</a>. There’re 25+ completely customizable vehicles available to buy.</p>
+<h3>Tuning</h3>
+<p>Each car you purchase can be fully tuned, brake balance, turbo, rear offset, front camber, and many more. You can modify these features to find the best tuning for your drifts. Also, you can upgrade the car&#8217;s performance. The weight, turbo, weight, and the engine can be entirely upgraded with better parts.</p>
+<h2>Drift Hunter full car list:</h2><ul class="spip"><li class="spip"> <a href="https://www.topspeed.com/cars/the-10-most-important-classic-japanese-cars-ar189046.html" class='_in'>Toyota Trueno GT-APEX (AE86)</a>- Datsun 240z</li><li class="spip"> Nissan 240sx (S13)</li><li class="spip"> BMW M3 (E29)</li><li class="spip"> Mitsubishi Evolution (VIII)</li><li class="spip"> Subaru Impreza WRZ</li><li class="spip"> BMW M3 (E36)</li><li class="spip"> Nissan 240sx (S14)</li><li class="spip"> Nissan Silvia Spec R (S15)</li><li class="spip"> <a href="https://www.topspeed.com/cars/honda/2006-honda-s2000-ar12172.html" class='_in'>Honda S2000</a> (AP1)</li><li class="spip"> Mazda RX-7 Type R (FD3S)</li><li class="spip"> <a href="https://www.topspeed.com/cars/bmw-m3/ke2366.html" class='_in'>BMW M3</a> (<a href="https://www.topspeed.com/cars/bmw/2001-2003-bmw-m3-e46-ar1376.html" class='_in'>E46</a>)</li><li class="spip"> <a href="https://www.topspeed.com/cars/toyota-gt86/ke4085.html" class='_in'>Toyota GT86</a></li><li class="spip"> Toyota Supra (JZA80)</li><li class="spip"> <a href="https://www.topspeed.com/cars/bmw/2012-bmw-1-series-m-coupe-ar98020.html" class='_in'>BMW 1M Coupé</a> (E82)</li><li class="spip"> Infiniti G35 Coupe</li><li class="spip"> Mercedes Benz AMG CLA Saloon (C45)</li><li class="spip"> Ford Fiesta ST (Mark VI)</li><li class="spip"> <a href="https://www.topspeed.com/cars/nissan/2009-2017-nissan-370z-ar117725.html" class='_in'>Nissan 370z Coupe</a></li><li class="spip"> Nissan Skyline GTR (R34)</li><li class="spip"> Lexus IS350</li><li class="spip"> Dodge Challenger Hellcat</li><li class="spip"> Ford Mustang Fastback (S550)</li><li class="spip"> BMW 335i (F30)</li><li class="spip"> <a href="https://www.topspeed.com/cars/nissan/2020-nissan-gt-r-nismo-driven-ar187537.html" class='_in'>Nissan GTR (R35)</a></li><li class="spip"> Porsche 911 GT (993)</li></ul><h2>Features</h2><ul class="spip"><li class="spip"> Ten different tracks to drift car</li><li class="spip"> 26 luxurious customizable vehicles</li><li class="spip"> Stunning 3D graphics that you can adjust easily in setting</li><li class="spip"> Ability to modify and tune every part of your vehicle</li></ul><h2>FAQ</h2>
+<h3>What is the best car for drift hunters?</h3>
+<p>When it comes to drifting, you will have to find the best car to suit your requirements. While some gamers are certain that the Nisan GTR is the best car in Drift Hunters, some had huge success with the Nisan Silvia Spec R.</p>
+<h3>What is the name of the most expensive car in the Drift Hunters game?</h3>
+<p>The priciest car to buy in the game is the Porsche 911 GT (993), but it is not the fastest.</p>
+<h3>What is the fastest car on Drift Hunters?</h3>
+<p>The fastest car in Drift Hunters is the Nissan GT-R (R35).</p>
+<h3>Who invented Drift Hunter?</h3>
+<p>The game was originaly developped by Ilya Kaminetsky. You can downlaod it directly from the developper on his <a href="https://studionum43.itch.io/drift-hunters/purchase" class='_out' rel='external nofollow noopener'>website</a> and you can also support the project financialy from there.</p>
+<h2>Other Cool Games</h2>
+<p>Check out our other drift games: <a href="https://www.topspeed.com/car-games/car-games/figure-8-drift-practice-ar186788.html" class='_in'>Figure 8</a>,
+<a href="https://www.topspeed.com/car-games/car-games/madalin-stunt-cars-3-ar186757.html" class='_in'>Madalin Stunt Cars 3</a> and <a href="https://www.topspeed.com/car-games/car-games/topspeed-stunt-racing-ar186380.html" class='_in'>Topspeed Stunt Racing</a> for more awesome car game fun!</p>
+</div>
+<div class="b-game-detail-other-info">
+<div class="b-similar-games">
+<div class="b-information-block__header g-fw">
+<div class="b-information-block-header__base-info">
+<h4>Featured games</h4>
+<div class="b-information-block-header-dop-info">
+<div class="b-information-block-header__dop-text b-information-block-header__dop-text_small">
+You gotta check out:
+</div>
+</div>
+</div>
+</div>
+<ul class="b-similar-games-list g-fw">
+<li class="b-similar-games-item" data-mobile="no" data-flash="no">
+<a href="https://www.topspeed.com/car-games/drift-hunters-max/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202202/drift-hunters-max-19_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202202/drift-hunters-max-19_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202202/drift-hunters-max-19_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Drift Hunters Max</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/car-games/nitro-sprint-club-ar183401.html" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/201811/nitro-sprint-club_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/201811/nitro-sprint-club_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/201811/nitro-sprint-club_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Nitro Sprint Club</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="no" data-flash="no">
+<a href="https://www.topspeed.com/car-games/drift-torque/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202201/45337dbfb8db41db85a6eea770af8134-512x384_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202201/45337dbfb8db41db85a6eea770af8134-512x384_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202201/45337dbfb8db41db85a6eea770af8134-512x384_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Drift Torque</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="no" data-flash="no">
+<a href="https://www.topspeed.com/car-games/topspeed-drift-practice/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202205/topspeed-drift-pract-14_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202205/topspeed-drift-pract-14_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202205/topspeed-drift-pract-14_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">TopSpeed Drift Practice</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+<span class="b-article-list-item-label__value">featured games</span>
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/rush-race/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202112/3178d98daa314dd4bd44cbf624dedcbc-512x340_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202112/3178d98daa314dd4bd44cbf624dedcbc-512x340_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202112/3178d98daa314dd4bd44cbf624dedcbc-512x340_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Rush Race</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/car-games/death-driver-ar192406.html" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202107/death-driver_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202107/death-driver_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202107/death-driver_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Death Driver</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/car-games/drift-rally-champion-ar180264.html" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/201803/drift-rally-champion_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/201803/drift-rally-champion_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/201803/drift-rally-champion_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Drift Rally Champion</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+<span class="b-article-list-item-label__value">featured games</span>
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/car-games/mini-drift-ar180265.html" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/201803/mini-drift_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/201803/mini-drift_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/201803/mini-drift_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Mini Drift</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/car-games/2-cars-ar180258.html" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/201803/2-cars_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/201803/2-cars_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/201803/2-cars_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">2 Cars</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="no" data-flash="no">
+<a href="https://www.topspeed.com/car-games/burnout-extreme-drift-3/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202201/burnout-extreme-drift-3-800x600_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202201/burnout-extreme-drift-3-800x600_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202201/burnout-extreme-drift-3-800x600_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Burnout Extreme Drift 3</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="no" data-flash="no">
+<a href="https://www.topspeed.com/car-games/drift-hunters-2/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202112/drift-hunters_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202112/drift-hunters_400x266w.jpg"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202112/drift-hunters_400x266w.jpg" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Drift Hunters 2</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+<li class="b-similar-games-item" data-mobile="yes" data-flash="no">
+<a href="https://www.topspeed.com/car-games/crazy-drift/" class="b-similar-games-item__link" title="">
+<div class="b-similar-games-item__photo">
+<picture>
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop_webp/202201/562082247afb4b75a379cf8f428d1d2e-512x340_400x266.webp"
+type="image/webp">
+<source
+srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+data-srcset="https://pictures.topspeed.com/IMG/crop/202201/562082247afb4b75a379cf8f428d1d2e-512x340_400x266w.png"
+type="image/jpeg">
+<img data-sizes="auto" class="lazy" style="aspect-ratio:400/266;width:100%;"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="">
+</picture>
+<noscript>
+<img src="https://pictures.topspeed.com/IMG/crop/202201/562082247afb4b75a379cf8f428d1d2e-512x340_400x266w.png" alt=""/>
+</noscript>
+</div>
+<div class="b-similar-games-item__title">Crazy Drift</div>
+<div class="b-article-label-list">
+<span class="b-article-list-item__label">
+</span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div id="daily-vid-ad" class="daily-vid-ad"></div>
+<div class="adwords-block">
+<div class="ad-box">
+</div>
+</div>
+<div class="b-article-comments">
+<div id="disqus_main">
+<div class="disqus_container">
+<div class="section_title">What do you think?</div>
+<a href="#" id="disqus-show">Show Comments</a>
+<div id="disqus_thread" style="width:100%;"></div>
+<script>
+var disqus_shortname = 'topspeed';
+var disqus_identifier = 'ar181316';
+disqus_url = 'https://www.topspeed.com/car-games/car-games/drift-hunters-ar181316.html';
+disqus_page = true;
+/* * * DON'T EDIT BELOW THIS LINE * * */
+/*(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();*/
+</script>
+<noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+</div></div>
+</div>
+<div class="adwords-block sw-ad-container">
+<div id="div-gpt-ad-1329937054367-6" class="sw-ad div-gpt-ad-1329937054367-6"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="right-column-unit">
+<div class="right-column-unit-inner g-fw">
+<div class="right-column-big-col
+_visible-on-mobile js-stick-right-colunm">
+<div class="ad-banner">
+<div id='div-gpt-ad-1329937054367-9'></div>
+</div>
+<div class="b-right-column-section sticky-top-desktop">
+<div class="ad-banner">
+<div id='div-gpt-ad-1329937054367-11'></div>
+</div>
+</div>
+</div>
+<div class="right-column-small-col js-stick-right-colunm">
+<div class="b-right-column-section">
+<div class="ad-banner">
+<div id='div-gpt-ad-1329937054367-12'></div>
+<div id='div-gpt-ad-1329937054367-13'></div>
+<div id='div-gpt-ad-1329937054367-14'></div>
+<div id='div-gpt-ad-1329937054367-15'></div>
+</div>
+</div>
+<div class="b-right-column-section sticky-top-desktop">
+<div class="ad-banner">
+<div id='div-gpt-ad-1329937054367-16'></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-ad-banner">
+<div id='div-gpt-ad-1329937054367-24'></div>
+</div>
+</div>
+<div class="modal">
+<div class="modal-overlay modal-toggle"></div>
+<div class="modal-wrapper modal-transition">
+<div class="modal-header">
+<button class="modal-close modal-toggle"><svg class="icon-close icon" viewBox="0 0 32 32"><use xlink:href="#icon-close"></use></svg></button>
+<div class="modal-heading">&nbsp;</div>
+</div>
+<div class="modal-body">
+<div class="modal-content">
+</div>
+</div>
+</div>
+</div>
+<svg display="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="800" viewBox="0 0 768 800"><defs><g id="icon-close"><path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path></g></defs></svg>
+<footer class="b-footer">
+<div class="g-inner-width">
+<div class="b-footer-content g-fw">
+<div class="b-footer-info">
+<a href="#top" title="Back to top of page" class="arrow bckgrd-blue left">Back to top</a>
+&nbsp;
+<a href="https://www.topspeed.com" title="Top Speed Home" class="arrow bckgrd-blue right">Home page</a>
+<div class="b-footer-info__text">
+<div class="b-footer-info__links">
+</div>
+<div class="b-footer-info__copyright">© Copyright TopSpeed. All Rights Reserved</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="global-overlay js-global-overlay"></div>
+<div class="left-panel main-menu js-left-panel-content-area" id="main-menu">
+<div class="left-panel-inner">
+<div class="left-panel-title">
+Menu
+<button class="left-panel-close-btn icon-cancel js-close-left-panel" type="button"></button>
+</div>
+<div class="b-logo-wrapper-nav">
+<div class="b-logo">
+<a href="https://www.topspeed.com" class="b-logo__link">
+<img src="https://pictures.topspeed.com/images/2015/logo.svg" alt="" width="190" height="145">
+</a>
+</div>
+</div>
+<div class="left-panel-content">
+<div class="left-panel-section-list">
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">Cars</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/index4.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/car-news/index2.html">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/index310.html">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/index4/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/ke4991/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/driven-reviews/ke3166.html">
+<span class="b-spec-tag-filter-option__btn-title">Test Drives</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/makes/">
+<span class="b-spec-tag-filter-option__btn-title">Manufacturers</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/vehicle-types/">
+<span class="b-spec-tag-filter-option__btn-title">Vehicle types</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/topics/">
+<span class="b-spec-tag-filter-option__btn-title">Topics</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/cars/guides/">
+<span class="b-spec-tag-filter-option__btn-title">Guides</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/car-games/">
+<span class="b-spec-tag-filter-option__btn-title">Games</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">Motorcycles</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/index162.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/motorcycle-news/index261.html">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/motorcycle-reviews/index315.html">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/index162/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/ke4992/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/makes/">
+<span class="b-spec-tag-filter-option__btn-title">Manufacturers</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/vehicle-types/">
+<span class="b-spec-tag-filter-option__btn-title">Vehicle types</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/topics/">
+<span class="b-spec-tag-filter-option__btn-title">Topics</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycles/guides/">
+<span class="b-spec-tag-filter-option__btn-title">Guides</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/motorcycle-games/">
+<span class="b-spec-tag-filter-option__btn-title">Games</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">Trucks</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/index679.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/news/">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/reviews/">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/index679/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/ke4993/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/makes/">
+<span class="b-spec-tag-filter-option__btn-title">Manufacturers</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/vehicle-types/">
+<span class="b-spec-tag-filter-option__btn-title">Vehicle types</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/topics/">
+<span class="b-spec-tag-filter-option__btn-title">Topics</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/trucks/guides/">
+<span class="b-spec-tag-filter-option__btn-title">Guides</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/truck-games/">
+<span class="b-spec-tag-filter-option__btn-title">Games</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">Boats</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/index369.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/news/">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/reviews/">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/index369/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/ke4994/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/makes/">
+<span class="b-spec-tag-filter-option__btn-title">Manufacturers</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/vehicle-types/">
+<span class="b-spec-tag-filter-option__btn-title">Vehicle types</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boats/topics/">
+<span class="b-spec-tag-filter-option__btn-title">Topics</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/boat-games/">
+<span class="b-spec-tag-filter-option__btn-title">Games</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">Aviation</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/index671.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/news/">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/reviews/">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/index671/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/ke4996/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/makes/">
+<span class="b-spec-tag-filter-option__btn-title">Manufacturers</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation/vehicle-types/">
+<span class="b-spec-tag-filter-option__btn-title">Vehicle types</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/aviation-games/">
+<span class="b-spec-tag-filter-option__btn-title">Games</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">ATV/UTV</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/atv/index874.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/atv-utv/news/">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/atv-utv/reviews/">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/atv/index874/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/atv-utv/ke5024/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/atv-utv/makes/">
+<span class="b-spec-tag-filter-option__btn-title">Manufacturers</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section ">
+<div class="left-panel-section__title js-show-left-panel-subsection">
+<span class="left-panel-section__title-value">LifeStyle</span>
+<button type="button" class="left-panel-controls-btn js-show-left-panel-subsection"></button>
+</div>
+<div class="left-panel-section__subsection">
+<div class="main-menu-section-list">
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/lifestyle/index881.html">
+<span class="b-spec-tag-filter-option__btn-title">Home/latest</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/lifestyle/news/">
+<span class="b-spec-tag-filter-option__btn-title">News</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/lifestyle/reviews/">
+<span class="b-spec-tag-filter-option__btn-title">Reviews</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/lifestyle/index881/pictures.html">
+<span class="b-spec-tag-filter-option__btn-title">Photos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option
+_no-filter level-2">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/lifestyle/ke5461/videos.html">
+<span class="b-spec-tag-filter-option__btn-title">Videos</span>
+</a>
+</span>
+<span class="b-spec-tag-filter-option _no-filter">
+<a class="b-spec-tag-filter-option__btn" href="https://www.topspeed.com/lifestyle/guides/">
+<span class="b-spec-tag-filter-option__btn-title">Guides</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+<div class="left-panel-section">
+<a href="https://www.topspeed.com/company/about-us-ar10684.html" class="left-panel-section__title">
+<span class="left-panel-section__title-value">About Us</span>
+</a>
+</div>
+<div class="left-panel-section">
+<a href="https://www.topspeed.com/company/contact-us-ar1064.html" class="left-panel-section__title">
+<span class="left-panel-section__title-value">Contact Us</span>
+</a>
+</div>
+<div class="left-panel-section">
+<a href="https://www.topspeed.com/company/automotive-journalist-job-ar1458.html" class="left-panel-section__title">
+<span class="left-panel-section__title-value">Automotive journalist job</span>
+</a>
+</div>
+<div class="left-panel-section">
+<a href="https://www.topspeed.com/company/topspeed-scholarship-ar186939.html" class="left-panel-section__title">
+<span class="left-panel-section__title-value">TopSpeed Scholarship</span>
+</a>
+</div>
+</div>
+<div class="left-panel-bottom">
+<div class="b-soc-links">
+<a href="https://www.facebook.com/topspeed/" class="b-soc-link-item b-soc-link-item_fb" rel="nofollow"></a>
+<a href="https://twitter.com/topspeed" class="b-soc-link-item b-soc-link-item_tw" rel="nofollow"></a>
+<a href="https://www.pinterest.com/topspeed/" class="b-soc-link-item b-soc-link-item_pint" rel="nofollow"></a>
+<a href="https://www.youtube.com/topspeed" class="b-soc-link-item b-soc-link-item_yt" rel="nofollow"></a>
+</div>
+<div class="b-font-size-controls">
+<span class="b-font-size-btn b-font-size-up">A+</span>
+<span class="b-font-size-btn b-font-size-down">A-</span>
+</div>
+<div class="b-footer-info__text">
+<div class="b-footer-info__links">
+<a class="b-footer-info-link__item" href="https://www.topspeed.com/company/privacy-policy-ar1066.html" title="Privacy Policy" rel="nofollow">Privacy Policy</a>
+<a class="b-footer-info-link__item" href="https://www.topspeed.com/company/terms-conditions-ar1068.html" title="Terms &#38; conditions" rel="nofollow">Terms &amp; conditions</a>
+<a class="b-footer-info-link__item" href="https://feeds.feedburner.com/topspeed" rel="alternate" title="rss">RSS Feed / Newsletter Reader</a>
+<a class="b-footer-info-link__item" href="https://newsletter.topspeed.com/signup"
+title="rss" rel="nofollow">Newsletter E-mail signup</a>
+</div>
+<div class="b-footer-info__copyright">� Copyright TopSpeed. All Rights Reserved</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="b-filter-page-marker"></div>
+<!--[if lt IE 9]>
+<script src="https://pictures.topspeed.com/plugins/plugins/daixtech/javascript/respond.src.js"></script>
+<![endif]-->
+<div id='div-gpt-ad-1329937054367-17' class="zerozero"></div>
+<div id='div-gpt-ad-1329937054367-18' class="zerozero"></div>
+<div id='div-gpt-ad-1329937054367-19' class="zerozero"></div>
+<div id='div-gpt-ad-1329937054367-20' class="zerozero"></div>
+<div id='div-gpt-ad-1329937054367-21' class="zerozero"></div>
+<div id='div-gpt-ad-1329937054367-22' class="zerozero"></div>
+<div id='div-gpt-ad-1329937054367-23' class="zerozero"></div>
+</body>
+</html>
