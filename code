@@ -1,32 +1,18 @@
-def calculate_value(arr, letter):
-    if letter in arr:
-        index = arr.index(letter)
-        arr.insert(index, letter)
-    else:
-        if len(arr) == 0:
-            value = 0
-        elif letter == arr[0] or letter == arr[-1]:
-            value = max(arr[0], arr[-1]) + 1
-        else:
-            index = arr.index(letter)
-            value = max(arr[index-1], arr[index+1]) + 1
-        arr.insert(index, letter)
-    return value, arr
-
-def sortInput(input):
-    return ''.join(sorted(input))
-
-def valueOrder(values, letters):
-    sorted_letters = sortInput(letters)
-    for letter in sorted_letters:
-        value, values = calculate_value(values, letter)
-    for i in range(max(values) + 1):
-        for j in range(len(letters)):
-            if values[j] == i:
-                print(letters[j], end="")
-
-if __name__ == "__main__":
-    input_str = input("Enter the letters separated by commas: ")
-    letters = input_str.split(",")
-    values = []
-    valueOrder(values, letters)
+s ="GEEKSFORGEEKS"
+ 
+li = []
+l = len(s)
+for i in range (0,l):
+    li.append(s[i])
+ 
+ 
+for i in range(0,l):
+    for j in range(0,l):
+        if li[i]<li[j]:
+            li[i],li[j]=li[j],li[i]
+j=""
+ 
+for i in range(0,l):
+    j = j+li[i]
+ 
+print(j)
